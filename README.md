@@ -15,6 +15,6 @@ Using only iterations, string sequences, and string manipulations:
 
 
 ### Formatted Output
-Displaying only a few states out of 50:
+Displaying only a portion of the output:
 
 ![](img/extracted_states_img.JPG)
