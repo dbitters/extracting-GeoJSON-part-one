@@ -3,7 +3,7 @@ This project contains a python script that extracts portions of data from a GeoJ
 
 
 
-#### Objectives
+### Objectives
 Using only iterations, string sequences, and string manipulations:
 1. Extract state names
 2. Extract state FIPS codes
@@ -14,4 +14,7 @@ Using only iterations, string sequences, and string manipulations:
     * Latitude Maximum
 
 
-#### Formatted Output
+### Formatted Output
+Displaying only a few states out of 50:
+
+![](img/extracted_states_img.JPG)
